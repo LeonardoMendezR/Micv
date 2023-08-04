@@ -1,0 +1,59 @@
+.App {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+.header {
+  display: flex;
+  align-items: center;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+
+}
+
+.header-content {
+  flex: 1;
+}
+
+.header-image {
+  width: 150px; /* Ajusta el tamaño aquí */
+  height: auto;
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+.section h2 {
+  border-bottom: 1px solid #333;
+  padding-bottom: 5px;
+}
+
+.section p {
+  margin: 0;
+}
+
+.section ul {
+  padding-left: 20px;
+}
+
+.section li {
+  list-style: square;
+}
+
+.section .highlight {
+  font-weight: bold;
+}
+
+.section .date {
+  font-style: italic;
+}
