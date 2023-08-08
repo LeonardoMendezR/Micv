@@ -29,6 +29,7 @@ function App() {
           <p>Edad:20 años.</p>
           <p>Dni: 43998614.</p>
           <p>Direccion: Vicente balbastro 2893. Barrio Arturo Capdevilla</p>
+          <p>Nivel de ingles: basico, tomando clases con un profesor particular</p>
 
         </div>
 
@@ -36,8 +37,8 @@ function App() {
           
         <h2>Información de contacto</h2>
           <p>Email: leo.mendez.rodriguez1829@gmail.com</p>
-          <p>Teléfono: +54 9 351 374-5250 </p>
-          <WhatsappLink />
+          <p>Teléfono: +54 9 351 374-5250 <WhatsappLink /></p>
+          
         </div>
    
         <div className="section">
