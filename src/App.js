@@ -24,8 +24,7 @@ function App() {
           <p>Hola, soy Leonardo Mendez y soy estudiante de ingeniería de sistemas en la Universidad Catolica de Cordoba</p>
         </div>
         <div className="section">
-          
-        <h2>Informacion personal</h2>
+          <h2>Informacion personal</h2>
           <p>Edad:20 años.</p>
           <p>Dni: 43998614.</p>
           <p>Direccion: Vicente balbastro 2893. Barrio Arturo Capdevilla</p>
@@ -37,7 +36,8 @@ function App() {
           
         <h2>Información de contacto</h2>
           <p>Email: leo.mendez.rodriguez1829@gmail.com</p>
-          <p>Teléfono: +54 9 351 374-5250 <WhatsappLink /></p>
+          <p>Teléfono: +54 9 351 374-5250</p>
+          <WhatsappLink />
           
         </div>
    
