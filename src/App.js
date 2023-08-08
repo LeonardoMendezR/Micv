@@ -43,6 +43,7 @@ function App() {
         <div className="section">
           <h2>Habilidades</h2>
           <ul>
+            <li>Github</li>
             <li>C++</li>
             <li>Javascript</li>
             <li>Html</li>
